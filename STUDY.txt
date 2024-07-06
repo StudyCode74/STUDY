@@ -3,3 +3,7 @@ Target pembelajaran
 - Python
 - HTML
 - CSS
+
+Hasil pembelajaran
+- Menguasai bahasa pemrograman 
+- Bisa bahasa inggris 
