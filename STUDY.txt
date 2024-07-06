@@ -1,8 +1,6 @@
 Target pembelajaran 
 - Javascript 
 - Python
-- HTML
-- CSS
 
 Hasil pembelajaran
 - Menguasai bahasa pemrograman 
