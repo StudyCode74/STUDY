@@ -4,4 +4,4 @@ Target pembelajaran
 
 Hasil pembelajaran
 - Menguasai bahasa pemrograman 
-- Bisa bahasa inggris 
+- Bisa bahasa python 
