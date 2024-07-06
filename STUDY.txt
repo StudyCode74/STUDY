@@ -4,9 +4,6 @@ Target pembelajaran
 
 Hasil pembelajaran
 - Menguasai bahasa pemrograman 
-
-
-
 - Biaa bahasa python 
 - Bisa bahasa inggris 
 - Membuat 1 project 
